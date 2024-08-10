@@ -1,10 +1,12 @@
-package org.example.entities;
+package org.example.entities.application.entities;
+
+import org.example.entities.application.entities.Product;
 
 import java.time.LocalDate;
 
 
 
-public class UsedProduct extends Product{
+public class UsedProduct extends Product {
     private LocalDate manufactureDate;
 
     public UsedProduct(){

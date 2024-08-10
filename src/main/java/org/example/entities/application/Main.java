@@ -1,11 +1,10 @@
-package org.example;
+package org.example.entities.application;
 
-import org.example.entities.ImportedProduct;
-import org.example.entities.Product;
-import org.example.entities.UsedProduct;
+import org.example.entities.application.entities.ImportedProduct;
+import org.example.entities.application.entities.Product;
+import org.example.entities.application.entities.UsedProduct;
 
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.*;

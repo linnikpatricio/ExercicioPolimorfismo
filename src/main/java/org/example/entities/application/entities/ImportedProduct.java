@@ -1,4 +1,4 @@
-package org.example.entities;
+package org.example.entities.application.entities;
 
 
 public class ImportedProduct extends Product {
